@@ -1,5 +1,8 @@
 # Hello-world
 echo "# Hello-world" >> README.md
+echo "# this is better"
+echo
+echo
 git init
 git add README.md
 git commit -m "first commit"
